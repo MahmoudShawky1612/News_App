@@ -1,0 +1,265 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Elisabeth Buchwald",
+    "title": "Surging restaurant prices are making dining out even more of a luxury - CNN",
+    "description": "If you’ve opted to cook a romantic meal at home with your partner this Valentine’s Day — no matter how it comes out — know that you’re saving a decent amount of money compared to couples dining out.",
+    "url": "https://www.cnn.com/2024/02/13/economy/food-prices-cpi-inflation/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20210213-znp-b197-007.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-13T21:33:45Z",
+    "content": "If youve opted to cook a romantic meal at home with your partner this Valentines Day no matter how it comes out know that youre saving a decent amount of money compared to couples dining out.\r\nEven e… [+3726 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Ari Levy",
+    "title": "Lyft shares pull way back after CFO corrects major earnings release error - CNBC",
+    "description": "Lyft reported better-than-expected earnings on Tuesday and issued uplifting guidance.",
+    "url": "https://www.cnbc.com/2024/02/13/lyft-shares-soar-on-earnings-beat-guidance.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106672492-1597962750223-gettyimages-1267395666-me8a4752_2020082013842699.jpeg?v=1707862061&w=1920&h=1080",
+    "publishedAt": "2024-02-13T21:29:51Z",
+    "content": "Lyft shares initially soared in extended trading on Tuesday but pulled way back after the company's finance chief acknowledged on an earnings call that the release included a major error.\r\nHere's how… [+2140 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Jon Swartz",
+    "title": "Airbnb’s stock bounces around after revenue beat, positive guidance - MarketWatch",
+    "description": "Airbnb Inc.’s stock was on the rise in extended trading Tuesday following quarterly results that eclipsed analysts’ revenue estimates and guidance.",
+    "url": "https://www.marketwatch.com/story/airbnbs-stock-bounces-around-after-revenue-beat-positive-guidance-21e23fd6",
+    "urlToImage": "https://images.mktw.net/im-89828930/social",
+    "publishedAt": "2024-02-13T21:25:00Z",
+    "content": "Airbnb Inc.s stock bounced around in volatile extended trading Tuesday following quarterly results that eclipsed analysts revenue estimates and guidance. The vacation-property rentals company \r\n ABNB… [+1094 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Hollywood Reporter"
+    },
+    "author": "Winston Cho",
+    "title": "Sarah Silverman, Authors See Most Claims Against OpenAI Dismissed by Judge - Hollywood Reporter",
+    "description": "The order builds upon findings from other courts, which have mostly dismissed claims from creators suing AI companies. A claim for direct copyright infringement remains in the suit from Silverman and other top authors suing OpenAI.",
+    "url": "http://www.hollywoodreporter.com/business/business-news/sarah-silverman-openai-lawsuit-claims-judge-1235823924/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Sarah-Silverman-Golden-Globes-Carpet-GettyImages-1908166588-H-2024.jpg?w=1024",
+    "publishedAt": "2024-02-13T21:23:53Z",
+    "content": "A federal judge has dismissed most of a lawsuit brought by Sarah Silverman, Ta-Nehisi Coates and other authors against OpenAI over the use of copyrighted books to train its generative artificial inte… [+4753 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Kif Leswing",
+    "title": "Nvidia is now worth more than Amazon thanks to the AI chip boom - CNBC",
+    "description": "Nvidia surpassed Amazon in market capitalization on Tuesday.",
+    "url": "https://www.cnbc.com/2024/02/13/nvidia-market-cap-passes-amazon-on-strength-of-ai-boom.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107373142-1707856629430-gettyimages-1885796923-AI_CEOs_516_091323.jpeg?v=1707859755&w=1920&h=1080",
+    "publishedAt": "2024-02-13T21:21:17Z",
+    "content": "Nvidia surpassed Amazon in market capitalization on Tuesday. It's a sign of strong demand for semiconductors that run cutting-edge artificial intelligence and the investor appetite for the companies … [+1290 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Coca-Cola Sales Beat In Show Of Pricing Power, Kraft Heinz On Deck - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/news/warren-buffett-stocks-coca-cola-earnings-kraft-heinz-what-to-expect/",
+    "urlToImage": null,
+    "publishedAt": "2024-02-13T21:14:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": "the-wall-street-journal",
+      "name": "The Wall Street Journal"
+    },
+    "author": "The Wall Street Journal",
+    "title": "Walmart in Talks to Buy TV Maker Vizio - WSJ - The Wall Street Journal",
+    "description": null,
+    "url": "https://www.wsj.com/business/retail/walmart-vizio-tv-company-deal-b90c77f6",
+    "urlToImage": null,
+    "publishedAt": "2024-02-13T21:13:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Hayden Field",
+    "title": "Instacart to lay off 250 employees, or about 7% of the company, as part of restructuring - CNBC",
+    "description": "Instacart on Tuesday announced it would lay off about 250 employees, or roughly 7% of the company, alongside reporting fourth-quarter earnings.",
+    "url": "https://www.cnbc.com/2024/02/13/instacart-layoffs-company-to-cut-250-employees-or-about-7percent.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107303188-16951452412022-03-25t164857z_2046104371_rc2p9t9mbshn_rtrmadp_0_instacart-funding.jpeg?v=1695230940&w=1920&h=1080",
+    "publishedAt": "2024-02-13T21:12:00Z",
+    "content": "Instacart on Tuesday announced it would lay off about 250 employees, or roughly 7% of the company, as part of a restructuring. The news came as the company reported fourth-quarter earnings that fell … [+1554 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Upstart.com"
+    },
+    "author": "Investor Relations",
+    "title": "Upstart Announces Fourth Quarter and Full Year 2023 Results | Upstart Network, Inc. - Investor Relations",
+    "description": null,
+    "url": "https://ir.upstart.com/news-releases/news-release-details/upstart-announces-fourth-quarter-and-full-year-2023-results",
+    "urlToImage": null,
+    "publishedAt": "2024-02-13T21:05:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Megan Henney",
+    "title": "Fed rate cuts 'off the menu for now' after hot January inflation report - Fox Business",
+    "description": "The odds of the Federal Reserve cutting rates in the first half of 2024 dimmed after the January inflation report came in hotter than expected on Tuesday.",
+    "url": "https://www.foxbusiness.com/economy/fed-rate-cuts-off-menu-now-hot-january-inflation-report",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/powell-10.24.22.jpg?ve=1&tl=1",
+    "publishedAt": "2024-02-13T21:03:00Z",
+    "content": "Inflation ran hotter than expected at the start of the year, pouring cold water on Wall Street's hopes for an imminent interest-rate cut by the Federal Reserve.\r\nThe consumer price index, a broad mea… [+3109 chars]"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Allison Morrow",
+    "title": "Bitcoin euphoria is back as investors prepare for the quadrennial ‘halving’ - CNN",
+    "description": "Bitcoin rose to $50,000 Monday for the first time in two years, fueled by a rush of new-investor enthusiasm and growing anticipation over a cryptic-sounding event known as “the halving.”",
+    "url": "https://www.cnn.com/2024/02/13/business/bitcoin-price-surge-halving/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2007406261.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2024-02-13T20:50:00Z",
+    "content": "Bitcoin rose to $50,000 Monday for the first time in two years, fueled by a rush of new-investor enthusiasm and growing anticipation over a cryptic-sounding event known as the halving.\r\nBitcoin, the … [+4182 chars]"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Alaska Air flight attendants authorize strike for first time in three decades - Reuters",
+    "description": "Alaska Air flight attendants authorized a strike mandate for the first time in three decades, as thousands of cabin crew across three unions picketed for higher pay outside airports in the United States, the UK and Guam on Tuesday.",
+    "url": "https://www.reuters.com/business/aerospace-defense/flight-attendants-join-hands-picket-outside-30-airports-better-pay-2024-02-13/",
+    "urlToImage": "https://www.reuters.com/resizer/lC1z_Aj3iKt3getwWAPAMoJ8vPA=/1920x1005/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZRE355WGGNLWNPA63NAY6KCFSE.jpg",
+    "publishedAt": "2024-02-13T20:29:00Z",
+    "content": null
+  },
+  {"source": {
+      "id": null,
+      "name": "Fox Business"
+    },
+    "author": "Breck Dumas",
+    "title": "Build-A-Bear and Warren Buffett's 'Squishmallows' maker square off in court - Fox Business",
+    "description": "Build-A-Bear and Jazwares, the Berkshire-Hathaway-owned company that makes popular \"Squishmallows,\" sued each other on Monday. Jazwares claims Build-A-Bear ripped off its designs.",
+    "url": "https://www.foxbusiness.com/markets/build-a-bear-warren-buffetts-squishmallows-maker-square-off-court",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/06/0/0/squishmallows-toy.jpg?ve=1&tl=1",
+    "publishedAt": "2024-02-13T20:13:00Z",
+    "content": "A stuffed animal fight is on, and it's playing out in the courtroom.\r\nSquishmallow maker Jazwares, owned by Warren Buffett's Berkshire Hathaway, sued rival Build-A-Bear on Monday for allegedly rippin… [+2601 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "Bitcoin retreats from $50,000 after hotter-than-expected inflation data: CNBC Crypto World - CNBC Television",
+    "description": "CNBC Crypto World features the latest news and daily trading updates from the digital currency markets and provides viewers with a look at what’s ahead with ...",
+    "url": "https://www.youtube.com/watch?v=b2We93G1iqs",
+    "urlToImage": "https://i.ytimg.com/vi/b2We93G1iqs/maxresdefault.jpg",
+    "publishedAt": "2024-02-13T20:10:10Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Deadline"
+    },
+    "author": "Nellie Andreeva",
+    "title": "Paramount Global Layoffs: Paramount TV Studios Combines Development & Current, Other Senior Executives Impacted - Deadline",
+    "description": "Details are starting to emerge about major layoffs at Paramount Global impacting approximately 800 employees in the U.S. including in TV operations.",
+    "url": "http://deadline.com/2024/02/paramount-global-layoffs-paramount-tv-studios-consolidation-development-current-executives-departures-1235824286/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2024/02/Paramount-Layoffs.jpg?w=1024",
+    "publishedAt": "2024-02-13T19:53:00Z",
+    "content": "EXCLUSIVEUPDATED with more names: Details are starting to emerge about the major round of layoffs Tuesday at Paramount Global impacting about 800 employees in the U.S.\r\nHeaded into today’s reductions… [+2657 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "The Points Guy"
+    },
+    "author": "Zach Griff",
+    "title": "First look: Amex's stunning new Centurion Lounge in Atlanta - The Points Guy",
+    "description": "American Express just opened the world's largest Centurion Lounge at Hartsfield-Jackson Atlanta International Airport (ATL).",
+    "url": "https://thepointsguy.com/news/amex-centurion-lounge-atlanta-airport/",
+    "urlToImage": "https://thepointsguy.global.ssl.fastly.net/us/originals/2024/02/American-Express-Centurion-Lounge-Atlanta-70.jpg",
+    "publishedAt": "2024-02-13T19:31:49Z",
+    "content": "The world's busiest airport is now home to the world's best American Express Centurion Lounge.\r\nOn Wednesday, Feb. 14, the issuer will officially open the (blue) doors to its newest outpost at Hartsf… [+11449 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "MarketWatch"
+    },
+    "author": "Claudia Assis",
+    "title": "Tesla leads 11% annual drop in EV prices as demand slowdown continues - MarketWatch",
+    "description": "Tesla slashed Model Y prices by 20% from January 2023 while overall U.S. car prices fell 3.5%, Kelley Blue Book says",
+    "url": "https://www.marketwatch.com/story/tesla-leads-11-annual-drop-in-ev-prices-as-demand-slowdown-continues-af4c7403",
+    "urlToImage": "https://images.mktw.net/im-804723/social",
+    "publishedAt": "2024-02-13T18:31:00Z",
+    "content": "People in the market for a new electric vehicle may be looking at a bargain of sorts, particularly if they aim to get a new Tesla. The average U.S. price of a new EV in January was $55,353, down 10.8… [+1758 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "CNBC"
+    },
+    "author": "Rebecca Picciotto",
+    "title": "Lael Brainard slams food companies for ‘shrinkflation' as White House attacks price gouging - CNBC",
+    "description": "Consumer brands like Coca-Cola, PepsiCo, Procter & Gamble and more have raised prices over the past year to keep profits afloat.",
+    "url": "https://www.cnbc.com/2024/02/13/feds-lael-brainard-shrinkflation-white-house-battle.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107357599-1705001183121-gettyimages-1918186734-776088849.jpeg?v=1705001242&w=1920&h=1080",
+    "publishedAt": "2024-02-13T18:10:21Z",
+    "content": "National Economic Council Director Lael Brainard on Tuesday blamed higher consumer prices on \"shrinkflation,\" doubling down on the latest battlefront of President Joe Biden's corporate pressure campa… [+1421 chars]"
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "YouTube"
+    },
+    "author": null,
+    "title": "India is Building its Own \"sovereign AI\". Here's Why | Vantage with Palki Sharma - Firstpost",
+    "description": "India is Building its Own \"sovereign AI\". Here's Why | Vantage with Palki SharmaNvidia CEO Jensen Huang says that every country needs to have its own artific...",
+    "url": "https://www.youtube.com/watch?v=pEolSTz2RnQ",
+    "urlToImage": "https://i.ytimg.com/vi/pEolSTz2RnQ/maxresdefault.jpg",
+    "publishedAt": "2024-02-13T17:50:00Z",
+    "content": null
+  },
+  {
+    "source": {
+      "id": null,
+      "name": "Salon"
+    },
+    "author": "Michael La Corte",
+    "title": "Uber Eats edits star-studded Superbowl ad after backlash over food allergy insensitivity - Salon",
+    "description": "A man in the ad. says \"there's peanuts in peanut butter? Oh, it's the primary ingredient\"",
+    "url": "https://www.salon.com/2024/02/13/uber-eats-edits-star-studded-superbowl-ad-after-backlash-over-allergy-insensitivity/",
+    "urlToImage": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2023/08/peanut_butter_1305693160.jpg",
+    "publishedAt": "2024-02-13T17:46:00Z",
+    "content": null
+  }
+]
+}
