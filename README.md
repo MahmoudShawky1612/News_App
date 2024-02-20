@@ -1,16 +1,10 @@
 # newsapp
 
-A new Flutter project.
+a news app built with Flutter! 
 
-## Getting Started
+ Features include:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Three screens covering business, science, and sports news 
+Dark mode for comfortable reading at any time 
+Search functionality to easily find the news you're interested in 
+Powered by Flutter Bloc and API integration for seamless performance and real-time updates 
